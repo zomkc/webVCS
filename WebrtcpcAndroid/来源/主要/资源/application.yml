@@ -13,7 +13,7 @@ spring:
     name: webVCS
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://1.15.89.136/webrtc?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+    url: 
     username: root
     password:
   main:
